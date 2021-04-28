@@ -1,6 +1,6 @@
 # 《计算机网络教程》
 
-![template (1)](C:\Users\Shaoxiong\Desktop\template (1).jpg)
+![计算机网络](https://gitee.com/ShaoxiongDu/imageBed/raw/master/image-20210428175258520.png)
 
 ## 项目特点
  - ####  各个协议都有非常详细的图解
