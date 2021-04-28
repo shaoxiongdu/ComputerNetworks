@@ -1,6 +1,6 @@
 # 《计算机网络教程》
 
-![img.png](https://gitee.com/ShaoxiongDu/imageBed/raw/master/5f2cc5d10dcc4580.jpg)
+![template (1)](C:\Users\Shaoxiong\Desktop\template (1).jpg)
 
 ## 项目特点
  - ####  各个协议都有非常详细的图解
@@ -30,7 +30,7 @@
 - 《图解HTTP协议》
 - ......
 
-## 说明
+## 项目说明
 
  此项目目前仍在继续更新!
 
