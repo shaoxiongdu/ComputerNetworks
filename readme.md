@@ -1,11 +1,6 @@
 
 ![计算机网络](https://gitee.com/ShaoxiongDu/imageBed/raw/master/image-20210428175258520.png)
 
-## 项目特点
- - ####  体系结构详细说明
-   
- - ####  体系结构详细图解
-
 ## 项目内容
 
 > ###   **点击可跳转**
